@@ -1,0 +1,12 @@
+Referrer ID,Referrer Name,Referral Code,Referred User ID,Referred Name,Referred By
+1,Ashutosh Maurya,ac26fb35,2,Ashish Maurya,ac26fb35
+1,Ashutosh Maurya,ac26fb35,9,Baby Binny,ac26fb35
+2,Ashish Maurya,c31a01ee,,,,
+3,Alice,codeA123,4,Bob,codeA123
+3,Alice,codeA123,5,Charlie,codeA123
+4,Bob,codeB456,,,,
+5,Charlie,codeC789,6,David,codeC789
+5,Charlie,codeC789,7,Eva,codeC789
+6,David,codeD321,,,,
+7,Eva,codeE654,,,,
+9,Baby Binny,a211b51b,,,,
