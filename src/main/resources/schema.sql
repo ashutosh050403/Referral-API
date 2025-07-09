@@ -9,7 +9,7 @@ CREATE TABLE IF NOT EXISTS users (
 
 CREATE TABLE IF NOT EXISTS referral (
                                         id BIGINT AUTO_INCREMENT PRIMARY KEY,
-                                        referrer_code VARCHAR(20) NOT NULL,
+                                        referral_code VARCHAR(20) NOT NULL,
     referred_user_id BIGINT NOT NULL,
     is_successful BOOLEAN DEFAULT FALSE,
     FOREIGN KEY (referred_user_id) REFERENCES users(id)
